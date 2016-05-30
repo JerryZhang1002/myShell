@@ -1,2 +1,2 @@
 # myShell
-A basic command shell
+A basic command shell.
